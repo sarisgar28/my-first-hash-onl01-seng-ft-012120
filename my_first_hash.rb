@@ -30,7 +30,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  # {"five" =>
+  # {"five" => "two" => "three"
 
 
 
