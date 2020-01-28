@@ -32,9 +32,9 @@ def adding
                  }
   # {"five" => "two" => "three"}
 
-hash = ["oil paintings" => "shipping_manifest"]
+hash = ["oil paintings" = "shipping_manifest"]
 
-hash =  ["gun power"] => 4 
+hash =  ["gun power"] = 4 
   
 
 
