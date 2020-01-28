@@ -32,12 +32,10 @@ def adding
                  }
   # {"five" => "two" => "three"}
 
-["oil paintings" => "shipping_manifest"]
+hash = ["oil paintings" => "shipping_manifest"]
 
-  # gun_power
+hash =  ["gun power"] => 4 
+  
 
-
-
-  # return the shipping_manifest hash below
 
 end
